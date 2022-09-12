@@ -1,0 +1,44 @@
+body{
+
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+margin:0;
+border:#497C82 3vmin solid;
+  
+  height: 100vh;
+  display: flex;
+  flex-direction: center;
+  
+}
+.sign-up{
+    margin-top:8vmin;
+    width: 50%;
+    height:30%;
+    border:solid black 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login{
+    margin-top:8vmin;
+    width: 50%;
+    height:30%;
+    border:solid black 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    text-align: center;
+    margin:1vmin;
+    padding:1vmin;
+}
+
+a{
+text-decoration: none;
+color:black
+}

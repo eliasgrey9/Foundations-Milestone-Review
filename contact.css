@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    width: 100vw;
+    height: auto;
+  
+}
+
+nav{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin:0;
+    width:100vw;
+    height: 10vw;;
+    background-color:#497C82;
+}
+
+.logo{
+width:20vw;
+height: auto;
+}
+
+.navLinks{
+text-decoration: none;
+color:white;
+margin-right:5vw;
+font-size: 3vw;
+}
+
+.container{
+    margin-top:30vw;
+    font-size: 3vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
