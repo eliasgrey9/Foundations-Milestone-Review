@@ -51,3 +51,8 @@ li.appendChild(li2);
 
 });
 
+
+
+for(list of currentListings)
+
+console.log(currentListings)
